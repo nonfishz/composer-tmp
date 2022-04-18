@@ -1,0 +1,19 @@
+{
+    "name": "nonfishz/biubiubiu",
+    "description": "test",
+    "autoload": {
+        "psr-4": {
+            "Nonfishz\\Biubiubiu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nonfishz",
+            "email": "nonfishz@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
